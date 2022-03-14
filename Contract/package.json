@@ -1,0 +1,15 @@
+{
+  "name": "moonbase",
+  "version": "1.0.0",
+  "description": "running escrow on moonbase",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "escrow.js"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.7.1",
+    "web3-eth": "^1.7.1"
+  }
+}
